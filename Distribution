@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main();
+{
+  float pi=3.14;
+  float r= 2.0;
+printf(" sum of pi and r ,%f/t,%f/t",pi and r);
+printf(" product of %f /n pi %f /n r");
+
+return 0;
+}
