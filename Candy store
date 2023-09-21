@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main ();
+
+{ 
+printf ("total number of chocolates is %d \n",%d 100);
+int z=100;
+
+printf ("cost of per chocolate %d\t",%d 1rupee);
+int w= 1rupees;
+
+printf ("by exceed rupees of chocolate %d/t",2rupees);
+int x=2rupees;
+int y;
+
+printf ("total sum is %d\n,z/w+x %d/t",y);
+
+return 0;
+}
