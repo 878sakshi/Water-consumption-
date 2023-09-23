@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{  
+  char[]="battery low"
+printf ("enter level of battery")
+scanf ("%s \n percent of battery)
+if  
+battery is 15% or less;
+printf ("battery is low %s \n")
+else
+battery is more than 15%
+printf ("battery is not low %s \n")
+
+return 0;
+}
