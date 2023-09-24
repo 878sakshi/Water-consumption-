@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main ()
+{ char[]= "ordinary"
+  char = " extra money"
+printf (" enter ordinary, extra money ");
+scanf (" %s\n %s\n", ordinary, extra money);
+printf ("%c\t ordinary,%c\t extra money ");
+
+return 0;
+}
